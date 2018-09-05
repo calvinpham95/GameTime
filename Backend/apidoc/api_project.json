@@ -1,0 +1,1 @@
+{  "name": "backend",  "version": "1.0.0",  "description": "Backend for LUCK Application",  "sampleUrl": false,  "defaultVersion": "0.0.0",  "apidoc": "0.3.0",  "generator": {    "name": "apidoc",    "time": "2017-12-15T01:13:47.429Z",    "url": "http://apidocjs.com",    "version": "0.17.6"  }}

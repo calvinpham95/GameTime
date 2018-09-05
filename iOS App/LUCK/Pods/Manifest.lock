@@ -1,0 +1,26 @@
+PODS:
+  - PinCodeTextField (0.1.0)
+  - Pushy (1.0.9)
+  - Stripe (6.2.0):
+    - Stripe/Core (= 6.2.0)
+  - Stripe/Core (6.2.0)
+  - SwiftAddressBook (0.7.1)
+  - XLPagerTabStrip (8.0.0)
+
+DEPENDENCIES:
+  - PinCodeTextField
+  - Pushy (= 1.0.9)
+  - Stripe (~> 6.2.0)
+  - SwiftAddressBook
+  - XLPagerTabStrip (~> 8.0)
+
+SPEC CHECKSUMS:
+  PinCodeTextField: a3c39be58bde3ed1d6888d0fb1d88b0a4a2277cc
+  Pushy: 3876c0fcc13dc44b5fcde30d4786b41d8e2a02ec
+  Stripe: 275524137e6c4cc1058f6d32ece248adf30a21f9
+  SwiftAddressBook: ea1ed07730c1240217ba32c036f20b838d1bf578
+  XLPagerTabStrip: d1ab378af0923320ec0b5eab11d7b2f803d31261
+
+PODFILE CHECKSUM: a429f75ff3cf62a835731b4303671c7e93da42f9
+
+COCOAPODS: 1.1.1

@@ -1,0 +1,6 @@
+framework module Pods_LUCKUITests {
+  umbrella header "Pods-LUCKUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

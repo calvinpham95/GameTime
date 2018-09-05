@@ -1,0 +1,26 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'LUCK' do
+  # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for LUCK
+  pod 'XLPagerTabStrip', '~> 8.0'
+  pod 'Stripe', '~>6.2.0'
+  pod "SwiftAddressBook"
+  pod 'PinCodeTextField'
+  pod 'Pushy', '1.0.9'
+
+
+  target 'LUCKTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+  target 'LUCKUITests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+end
